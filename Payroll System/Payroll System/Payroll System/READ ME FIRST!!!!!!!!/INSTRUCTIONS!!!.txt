@@ -1,0 +1,48 @@
+
+******************** STEP 1 ******************
+
+
+Before you open the project make sure you have already installed:
+
+- VB.NET 2010
+- XAMPP
+- MYSQL CONNECTOR NET
+
+- If you don't have one of these, download it so that you can able use the system.
+
+
+******************** STEP 2 ******************
+
+
+- Adding reference MYSQL CONNECTOR NET to the project: see image MYSQL CONNECTOR ADDING REFERENCE
+- Locate folder of MYSQL CONNECTOR NET where you installed. Default path is C: Programs files > MySql > MySQL Connector Net 6.3.8 MySQL > Assemblies > v2.0
+- Running XAMPP MySQL: See image XAMPP Running MySQL
+- Import database to PhpMyAdmin
+
+
+******************** STEP 3 ******************
+
+username: admin
+password: admin
+
+Hotkeys 
+- Login form: Ctrl + F1
+- Print Report: F5	
+- Close Report: F1
+
+
+******************** THAT'S IT ***************
+
+- YOUR GOOD TO GO!
+- OPEN THE PROJECT AND START RUNNING!
+- ENJOY!
+
+
+
+Willing to donate? You can contact me via facebook: https://www.facebook.com/profile.php?id=100000224833244
+
+
+THANKS!
+
+
+- Edwin Tutay

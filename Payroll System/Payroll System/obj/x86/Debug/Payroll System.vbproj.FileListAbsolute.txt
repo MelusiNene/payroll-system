@@ -1,0 +1,209 @@
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+c:\users\edwinsai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+C:\Users\EdwinSai\documents\visual studio 2010\Projects\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollSummary.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollSummary.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdwinSai\Desktop\FINAL\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmViewWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollReport.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPaySlip.resources
+C:\Users\EdwinSai\Desktop\TESTING\Payroll System\Payroll System\bin\Debug\Payroll System.exe.config
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.exe.config
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollReport.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmViewWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPaySlip.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdwinSai\Desktop\Worker Payroll System\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\bin\Debug\Payroll System.exe.config
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollReport.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmViewWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPaySlip.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.exe.config
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollReport.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmViewWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPaySlip.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\EdwinSai\Desktop\Payroll System\Payroll System\Payroll System\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.exe.config
+D:\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+D:\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+D:\Payroll System\Payroll System\Payroll System\bin\Debug\Payroll System.xml
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAbout.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAccountSettings.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAppManager.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendance.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmAttendanceRecords.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmDesignationRecords.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmEditDesignation.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogHistory.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmLogin.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmHome.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmMainMenu.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPayrollReport.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmPaySlip.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmSplashScreen.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmViewWorkerRecords.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerModify.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPayroll.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerPaySlip.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRecords.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.frmWorkerRegistration.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll_System.Resources.resources
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.vbproj.GenerateResource.Cache
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.exe
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.xml
+D:\Payroll System\Payroll System\Payroll System\obj\x86\Debug\Payroll System.pdb
